@@ -42,6 +42,7 @@ Milestone:(*.tar.xz)
 
 主要存储, 在 `Batman` 时期的一些档案文件等, 基本上属于最原始的探索和尝试, 期间持续了6个月, 于2017年3月上线, 9月下线. 
 
+![v1](http://omotkhw3y.bkt.clouddn.com/v1blog.jpg)
 
 
 ### V2分支
@@ -56,7 +57,12 @@ Milestone:(*.tar.xz)
 
 该分支于2017年9月正式上线, 2019年9月线下, 为期两年: 点亮行业内所有技能树.
 
+> (最终V2 btter 还是以 V2命名)
 
+
+2017/9/24 已经切换到了 V2版本
+
+![v2](http://omotkhw3y.bkt.clouddn.com/v2blog.jpg)
 
 ### V3分支
 
