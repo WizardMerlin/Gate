@@ -38,6 +38,7 @@ Trace:(*.tar.xz)
 ## blog版本&分支说明
 
 
+
 存储在 `code.aliyun.com` 的私人项目上, 这里只保留备份.
 
 ## master分支
@@ -86,9 +87,12 @@ Trace:(*.tar.xz)
 
 
 
+> 加密解密命令
 
-
-
+```shell
+tar -Jcvf - 文件/目录|openssl des3 -salt -k password | dd of=xxx.des3
+dd if=xxx.des3|openssl -des3 -d -k password | tar -Jxvf -
+```
 
 
 
