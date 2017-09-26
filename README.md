@@ -15,12 +15,21 @@ Gate-History. History是我原来的库, 这里记录我的个人成长过程.
 2. 真理不可说.
 
 
-Milestone:(*.tar.xz)
+Milestone:
+1. 完成2015.03-2017.07的两年计划
+2. 
+
+
+---
+
+Trace:(*.tar.xz)
 
 0. Raw Material Transfered from repo History.  20170429.tar.xz
 1. complete my cpp knownledge system(完成Cpp知识系统的整理, 归档)   20170430.tar.xz
 2. delete all extra github repos of mine, to be a geek now!  20170507
 3. blog v2 version update. 201709
+4. update c++ inner standard (directory appendix)
+
 
 
 
