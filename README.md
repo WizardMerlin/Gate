@@ -3,16 +3,11 @@
 ## Milestone
 Gate这个词取自Warp Gate, 意思为传送门或者时空门.
 
-Gate-History. History是我原来的库, 这里记录我的个人成长过程.
-
-我的github以后面向: 中文 & 英文 & 日文 三个语种.
-
-
-
 但是我理解成"真理之门":
-
 1. 真理只要用心找, 总是能找到的.
 2. 真理不可说.
+
+Gate 库原来的名字是 History. History库, 这里记录我的个人成长过程.
 
 
 Milestone:
@@ -29,7 +24,7 @@ Trace:(*.tar.xz)
 2. delete all extra github repos of mine, to be a geek now!  20170507
 3. blog v2 version update. 201709
 4. update c++ inner standard (directory appendix)
-
+5. again trim extra github repos 201712
 
 
 
@@ -65,7 +60,7 @@ Trace:(*.tar.xz)
 
 这是在V2分支的基础上不断改进完善主题的分支, 还不错, 但是风格还需要改进: 简单, 方便阅读, 减少花哨.
 
-该分支于2017年9月正式上线, 2019年9月线下, 为期两年: 点亮行业内所有技能树.
+该分支于2017年9月正式上线.
 
 > (最终V2 btter 还是以 V2命名)
 
@@ -74,17 +69,49 @@ Trace:(*.tar.xz)
 
 ![v2](http://omotkhw3y.bkt.clouddn.com/v2blog.jpg)
 
-### V3分支
+![v22](http://omotkhw3y.bkt.clouddn.com/blog/2017-12-04-v22.jpg)
 
-该分支是在 V2-better 的基础上, 注重个人品牌, 影响力的进阶尝试.
-主要会增加:
-* 评论系统
-* 阅读和访问统计
-* SEO优化
-* 图片改进成经典书籍
+![v23](http://omotkhw3y.bkt.clouddn.com/blog/2017-12-04-v23.jpg)
+
+
+### v2.1
+
+由于原来的那个主题，相关的维护人员大致和我一样没有投入多少热情，并且我也没有太多精力去维护那个theme，所以正式切换theme。
+
+并且去掉了原来哪些花哨的东西， 突出 `专业` 和 `能力` ，以及 `作品` 。
+
+
+
+
+### v2.2
+
+2.2 版本属于优化版本， 走“简”的道路。 更少，更专业。
+
+在内容上做到：
+* 精简，简化： 完全去掉初级内容；太过详细的内容写成小册子。
+* 精致，精华： 让精华的，有益处的东西突出。
+* 专业化： 博客不再是仅仅为我个人的兴趣爱好服务了，也为我的职业发展服务。
+
+
+__把原本很详细的教程类/实验类/学习类单独出来成册子, 或者不再展示。__
+
+
+(safari/chrome + onenote + onenote-web-tool 效率神器)
+
+2.x 于2017年9月正式上线, 2019年9月线下, 为期两年: 点亮行业内所有技能树.
+
+
+
+
+### V3.0
+
 
 该分支会在2019年9月上线.
 
+
+
+
+## 其他说明
 
 
 > 加密解密命令
@@ -102,7 +129,4 @@ dd if=xxx.des3|openssl -des3 -d -k password | tar -Jxvf -
 
 
 ---
-who is sponsoring the site? - i shall say merlin (`wizardmerlin945@gmail.com`)
-
-
 Saturday, 29. April 2017 11:37AM
