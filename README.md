@@ -1,6 +1,6 @@
 # Gate
 
-## Milestone
+## 简介
 Gate这个词取自Warp Gate, 意思为传送门或者时空门.
 
 但是我理解成"真理之门":
@@ -10,14 +10,10 @@ Gate这个词取自Warp Gate, 意思为传送门或者时空门.
 Gate 库原来的名字是 History. History库, 这里记录我的个人成长过程.
 
 
-Milestone:
-1. 完成2015.03-2017.07的两年计划
-2. 
-
 
 ---
 
-Trace:(*.tar.xz)
+## Trace:(*.tar.xz)
 
 0. Raw Material Transfered from repo History.  20170429.tar.xz
 1. complete my cpp knownledge system(完成Cpp知识系统的整理, 归档)   20170430.tar.xz
@@ -47,7 +43,7 @@ Trace:(*.tar.xz)
 
 主要存储, 在 `Batman` 时期的一些档案文件等, 基本上属于最原始的探索和尝试, 期间持续了6个月, 于2017年3月上线, 9月下线. 
 
-![v1](http://omotkhw3y.bkt.clouddn.com/v1blog.jpg)
+![图片](http://omotkhw3y.bkt.clouddn.com/v1blog.jpg)
 
 
 ### V2分支
@@ -67,23 +63,23 @@ Trace:(*.tar.xz)
 
 2017/9/24 已经切换到了 V2版本
 
-![v2](http://omotkhw3y.bkt.clouddn.com/v2blog.jpg)
+![图片](http://omotkhw3y.bkt.clouddn.com/v2blog.jpg)
 
-![v22](http://omotkhw3y.bkt.clouddn.com/blog/2017-12-04-v22.jpg)
+![图片](http://omotkhw3y.bkt.clouddn.com/blog/2017-12-04-v22.jpg)
 
-![v23](http://omotkhw3y.bkt.clouddn.com/blog/2017-12-04-v23.jpg)
+![图片](http://omotkhw3y.bkt.clouddn.com/blog/2017-12-04-v23.jpg)
 
 
 ### v2.1
 
-由于原来的那个主题，相关的维护人员大致和我一样没有投入多少热情，并且我也没有太多精力去维护那个theme，所以正式切换theme。
+由于原来的那个主题，相关的维护人员大致和我一样没有投入多少热情，并且我也没有太多精力去维护那个theme。
 
-并且去掉了原来哪些花哨的东西， 突出 `专业` 和 `能力` ，以及 `作品` 。
-
-
+突出 `专业` 和 `能力` ，以及 `作品` 。
 
 
-### v2.2
+
+
+### v2.2 (Current)
 
 2.2 版本属于优化版本， 走“简”的道路。 更少，更专业。
 
